@@ -897,3 +897,12 @@ main {
 .footer-content strong {
   color: #3a5a40; /* Highlights copyright name */
 }
+
+.link {
+  color: #a3b18a;
+  font-weight: bold;
+}
+
+.link:hover {
+  color: #000d6b
+}
