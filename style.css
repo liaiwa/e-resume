@@ -901,6 +901,7 @@ main {
 .link {
   color: #a3b18a;
   font-weight: bold;
+  text-decoration: none;
 }
 
 .link:hover {
